@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppEmptyActivity</string>
+    <string name="botão">botão</string>
+    <string name="meu_primeiro_hello_world">Meu Primeiro Hello World</string>
+</resources>
